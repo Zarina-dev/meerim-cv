@@ -1,0 +1,112 @@
+body{
+  background-color: #fffdf9;
+  text-align: center;
+  margin: 0;
+}
+.top-main-container{
+  width: 100%;
+  height: 25rem;
+  background-color: #f1f9f9;
+}
+.top-container{
+  margin: 0;
+  background-color: #f1f9f9;
+  width: 700px;
+  height: 25rem;
+  margin: 0 auto;
+
+
+}
+.avatar-img{
+ float: left;
+ margin-left: 1.875rem;
+ margin-top: 3.875rem;
+}
+h1{
+  margin: 0 auto;
+  padding-top:3.5rem;
+  padding-bottom:2rem;
+  font-family: 'Comic Neue', cursive;
+  color: #66bfbf;
+}
+h2{
+  font-family: 'Comic Neue', cursive;
+  color: #66bfbf;
+  padding-top: 0.7rem;
+
+}
+p{
+  font-family: 'Baloo 2', cursive;
+  color: #4a47a3;
+  margin-top: 0;
+}
+
+
+.amstudent{
+  margin: 20px;
+}
+
+
+
+
+ .hobby-contain{
+   width: 400px;
+   margin: 0 auto;
+
+ }
+ .middle-img{
+   height: 8rem;
+   width: 8rem;
+   float: left;
+
+   }
+
+.books-contain{
+  width: 400px;
+  margin: 0 auto;
+}
+
+.dates-table{
+    margin: 0 auto;
+    text-align: left;
+
+}
+.skills-table{
+    margin: 0 auto;
+    text-align: left;
+
+}
+
+.bottom-container{
+    background-color: #f1f9f9;
+    position: relative;
+    margin-top: 2rem;
+    margin-bottom: 0;
+
+
+}
+.fab{
+  width: 2rem;
+  height: 1.3rem;
+  background-color: white;
+  padding-top: 0.25rem;
+  padding-bottom: 0.2rem;
+  margin: 1rem auto;
+  color: #05dfd7;
+
+
+}
+.gotop{
+  position: absolute;
+  right: 2rem;
+  bottom: 1.2rem;
+}
+hr{
+  border-style: none ;
+  height: 2px;
+  background-color:  #f1f9f9;
+
+}
+.©{
+  margin-bottom: 1rem;
+}
